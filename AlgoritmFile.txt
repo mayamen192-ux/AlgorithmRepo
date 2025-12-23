@@ -71,6 +71,17 @@ other print A=a[]
 6. return A
 7.end
 ----------------------------------------------------
+E. Algorithm for find all prime numbers up to N
+1.start
+2.input numbers=N
+3.for loop P>=0 print N
+5.check if p<=N print N
+6.return N
+7.end
+-----------------------------------------------------
+
+
+
 
 
 
