@@ -34,12 +34,24 @@ c. phrase::was it a rat i saw"
 -------------------------------------------
 
 A. Algorithm for average a list of numbers:
-1.input the numbers: n1,n2,...=a[]
-2.set pointer that accounts the numbers=P
-3. do Average Ave=a[]/P
-4. return Ave
-5.End
+1.start
+2.input the numbers: n1,n2,...=a[]
+3.set pointer that accounts the numbers=P
+4. do Average Ave=a[]/P
+5. return Ave
+6.End
 ---------------------------------------------
+B. Algorithm for check if number is even or odd:
+1. start
+2. input the numbers:n1,n2,...
+3. do dividing 
+4. get Remainder=R
+5. if  R=0 ==print result="even" other result="odd"
+6. end if
+7. return result
+8.end
+---------------------------------------------
+
 
  
 
