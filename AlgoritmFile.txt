@@ -99,6 +99,16 @@ G. Algorithm for print second largest number:
 8.end
 
 -----------------------------------------------------
+S. Algorithm for print palindrome words:
+1.start
+2.input  word=W
+3.set leftpointer=L
+4.set rightpointer=F
+5. check if L=F print W 
+6.end if 
+7.return w
+8.end
+------------------------------------------------
 
 
 
