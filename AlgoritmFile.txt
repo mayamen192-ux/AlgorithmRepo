@@ -51,6 +51,16 @@ B. Algorithm for check if number is even or odd:
 7. return result
 8.end
 ---------------------------------------------
+C. Algorithm for account the positive and negative numbers:
+1.start
+2. input the numbers: n1,n2,...=N
+3. check if N>=0 ==
+== if yes print result="positive number" 
+== other print result="negative number"
+4. end if 
+5. return result
+6.end
+-------------------------------------------------
 
 
  
