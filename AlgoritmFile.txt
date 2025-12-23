@@ -61,6 +61,17 @@ C. Algorithm for account the positive and negative numbers:
 5. return result
 6.end
 -------------------------------------------------
+D. Algorithm for remove duplicate words:
+1.start
+2. set list of words == A=a[]
+3.set pointer =p
+4. check if p=a[] ==print A=""
+other print A=a[]
+5. end if
+6. return A
+7.end
+----------------------------------------------------
+
 
 
  
