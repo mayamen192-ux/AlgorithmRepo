@@ -1,0 +1,29 @@
+Pseudo Code:
+
+1. What is pseudo code?
+It is an understandable way of writing the algorithm in a number of steps so that user in this case can understand the logic of the problem or algorithm before write it in a programmable code. 
+
+2. Why and when we use it?
+we use pseudo code because it is easier way to help user how to write the algorithm of the problem and can understand it in a good way.
+we can use the algorithm in : problem solving , team communication, documentation, and others.
+
+3.How to write pseudo code to represent algorithm?
+there are a number of steps to write correct algorithm :
+a. define the aim of the problem.
+b. list input and output of the problem.
+c. use control structure such as: FOR, WHILE , IF loop in order to facilitate the problem.
+D. be sure that steps write clearly.
+
+5. Example on problem algorithm written in pesudo code?
+algorithm for show if grade is pass or fail :
+1. input: grade=X
+2. do for loop:
+if X>=50% 
+if yes --print  result="PASS"
+if no --print  result= "Fail"
+end if
+end for loop
+return result
+ 
+  
+  
