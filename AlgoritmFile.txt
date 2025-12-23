@@ -31,7 +31,18 @@ Examples:
 a. Words: level, radar
 b.Number:121, 1331
 c. phrase::was it a rat i saw"
-------------------------------------------- 
+-------------------------------------------
+
+A. Algorithm for average a list of numbers:
+1.input the numbers: n1,n2,...=a[]
+2.set pointer that accounts the numbers=P
+3. do Average Ave=a[]/P
+4. return Ave
+5.End
+---------------------------------------------
+
+ 
+
  
   
   
