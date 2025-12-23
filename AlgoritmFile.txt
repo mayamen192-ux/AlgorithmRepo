@@ -78,6 +78,16 @@ E. Algorithm for find all prime numbers up to N
 5.check if p<=N print N
 6.return N
 7.end
+-------------------------
+Algorithm for merge two sorted list:
+1.start
+2.input first list == F=a[]
+3.input second list == S=a[]
+4.do new merge list M=a[]
+5. do M=F+S
+6. return M
+7.end
+-------------------------------------
 -----------------------------------------------------
 
 
