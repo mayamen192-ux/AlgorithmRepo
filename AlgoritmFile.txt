@@ -24,6 +24,14 @@ if no --print  result= "Fail"
 end if
 end for loop
 return result
+-----------------------------------
+what is  Palindrome?
+the order of the characters of the word, number, or phrase from left to right is same as from right to left>
+Examples:
+a. Words: level, radar
+b.Number:121, 1331
+c. phrase::was it a rat i saw"
+------------------------------------------- 
  
   
   
