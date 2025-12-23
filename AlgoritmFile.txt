@@ -109,6 +109,15 @@ S. Algorithm for print palindrome words:
 7.return w
 8.end
 ------------------------------------------------
+H. Algorithm for Generate Fibonacci Sequence:
+1.start
+2.input listofnumbers== N=a[]
+3.a=1,b=1
+4. set fibonacci== F=a+b
+5.return N=F
+6.end
+------------------------------------------------
+
 
 
 
