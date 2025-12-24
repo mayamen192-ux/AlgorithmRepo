@@ -95,8 +95,9 @@ G. Algorithm for print second largest number:
 4. set Frist number=F
 5. set second number=S
 6.for loop : if S>F print result="secondlargestnumber"
-7.return result
-8.end
+7.until pointer=0
+8.return result
+9.end
 
 -----------------------------------------------------
 S. Algorithm for print palindrome words:
@@ -116,6 +117,7 @@ H. Algorithm for Generate Fibonacci Sequence:
 4. set fibonacci== F=a+b
 5.return N=F
 6.end
+
 ------------------------------------------------
 
 
