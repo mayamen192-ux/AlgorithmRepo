@@ -31,6 +31,10 @@ Examples:
 a. Words: level, radar
 b.Number:121, 1331
 c. phrase::was it a rat i saw"
+
+what is Fibonacci Sequence?
+It is a sequence that begins with 0 and 1 and each new number is sum of its two pervious numbers.
+Example:0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
 -------------------------------------------
 
 A. Algorithm for average a list of numbers:
