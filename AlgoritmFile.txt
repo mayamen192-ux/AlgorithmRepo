@@ -79,7 +79,8 @@ E. Algorithm for find all prime numbers up to N
 1.start
 2.input numbers=N
 3.set N=2
-4.check if N>N 
+4.for lop N/1 
+5.check if N/N
 6. if yes return N
 7.end
 -------------------------
