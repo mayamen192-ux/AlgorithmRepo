@@ -78,9 +78,9 @@ other print A=a[]
 E. Algorithm for find all prime numbers up to N
 1.start
 2.input numbers=N
-3.for loop P>=0 print N
-5.check if p<=N print N
-6.return N
+3.set N=2
+4.check if N>N 
+6. if yes return N
 7.end
 -------------------------
 F. Algorithm for merge two sorted list:
