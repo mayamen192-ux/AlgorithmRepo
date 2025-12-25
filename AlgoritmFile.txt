@@ -85,12 +85,13 @@ E. Algorithm for find all prime numbers up to N
 -------------------------
 F. Algorithm for merge two sorted list:
 1.start
-2.input first list == F=a[]
-3.input second list == S=a[]
-4.do new merge list M=a[]
-5. do M=F+S
-6. return M
-7.end
+2.set array of numbers=a[]
+3.input first list == F=a[]
+4.input second list == S=a[]
+5.do new merge list M=a[]
+6. do M=F+S
+7. return M
+8.end
 -------------------------------------
 G. Algorithm for print second largest number:
 1.start
