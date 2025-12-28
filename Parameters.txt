@@ -1,21 +1,22 @@
-1. input 
-output 
-variable(list)
+1. input: input  list of numbers
+output :print "average"
+variable(list):number[]
 
-2.input
-output
-loop
+2.input: input list of  number
+output: print "even" or "odd"
+condition: if number >=0
 
-3.input
-output
-variable: list
-loop
+3.input:input list of number
+output :print "smallest number"
+variable: list:number[]
+loop: for pointer p if <number print n 
 
-4.input
-output
-condition: if
-loop
-variable:list
+4.input: input list of number
+output: print "number of positive numbers and number of negative numbers"
+condition: if number >=0 print "number of positive number" else print "negative number"
+loop: for 
+variable: list:number[]
+
 
 5.input
 output
