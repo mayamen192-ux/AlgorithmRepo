@@ -1,0 +1,61 @@
+1. input 
+output 
+variable(list)
+
+2.input
+output
+loop
+
+3.input
+output
+variable: list
+loop
+
+4.input
+output
+condition: if
+loop
+variable:list
+
+5.input
+output
+variable: list
+loop
+condition
+
+6.input
+output
+condition
+variable: list
+
+7.input
+output
+variable: list
+condition
+loop
+
+8.input
+output
+loop
+condition
+
+9.input
+output
+condition
+
+
+10.input
+output
+loop
+variable
+condition
+
+
+
+
+
+
+
+
+
+
