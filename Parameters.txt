@@ -41,9 +41,11 @@ loop: until  pointer p=0
 variable: set s //second number
 condition: if s > p do loop
 
-9.input:
-output:
-condition:
+9.input:input string
+output: print "Palindrome" or "Not Palindrome" 
+variable: set left pointer=f, second pointer=s, pointer=p
+condition: if f=s print "Palindrome" else print "Not Palindrome"
+loop: until p=0
 
 
 10.input
