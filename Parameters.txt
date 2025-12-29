@@ -8,41 +8,42 @@ condition: if number >=0
 
 3.input:input list of number
 output :print "smallest number"
-variable: list:number[]
+variable: list: number[]
 loop: for pointer p if <number print n 
 
 4.input: input list of number
 output: print "number of positive numbers and number of negative numbers"
 condition: if number >=0 print "number of positive number" else print "negative number"
-loop: for 
-variable: list:number[]
+loop: for pointer<=5 
+variable: list: number[]
 
 
-5.input
-output
-variable: list
-loop
-condition
+5.input:input list of numbers
+output: print "unique values"
+variable: number[]
+loop: until number[]=7
+condition: if number[]=number[] stop else print number[] 
 
-6.input
-output
-condition
-variable: list
+6.input: input positive number=n 
+output: print "prime number"
+condition: if n/n and n/1 print n else stop
 
-7.input
-output
-variable: list
-condition
-loop
 
-8.input
-output
-loop
-condition
+7.input:input two sorted list // first list[] , second list[]
+output: print "merged list"
+variable: list=a[]
 
-9.input
-output
-condition
+
+
+8.input:input list of numbers=a[]
+output: print "second largest number" 
+loop: until  pointer p=0 
+variable: set s //second number
+condition: if s > p do loop
+
+9.input:
+output:
+condition:
 
 
 10.input
