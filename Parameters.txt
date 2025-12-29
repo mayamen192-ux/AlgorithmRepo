@@ -48,11 +48,11 @@ condition: if f=s print "Palindrome" else print "Not Palindrome"
 loop: until p=0
 
 
-10.input
-output
-loop
-variable
-condition
+10.input: input positive number=n, input list=a[]
+output: print " list of first n Fibonacci numbers"
+variable: set pointer=p
+loop: until pointer p=0
+condition: if n=7 print a[] else stop
 
 
 
